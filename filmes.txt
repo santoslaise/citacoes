@@ -1,2 +1,3 @@
 "nao ha certezas, apenas oportunidades."(V de vingaça)
 "diga 'ola'para o meu pequeno amigo"
+"primeiros passos em programação orientada a objetos"
